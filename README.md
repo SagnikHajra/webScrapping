@@ -9,9 +9,9 @@ Python 3.10.0
 # Libraries
 
 Scrapy 2.5.1
-
+````bash
 pip install scrapy
-
+```
 # Scrapy project name
 
 CovidStats
